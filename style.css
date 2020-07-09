@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.green-light-bg{
+    background-color: #F0FFF0;
+}
+.icon img{
+    width: 100px;
+}
+
+.container .click{
+    background-color: green;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+.buy-course{
+    margin: auto;
+    height: 40px;
+    width: 145px;
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+.headbot{
+    background-color: #21B573;
+    border-radius: 50px;
+    height: 45px;
+    width: 150px;
+    color: white;
+    border: none;
+}
+.container .carousel-item{
+    margin-top: 10px;
+}
+.carousel-item{
+    padding: 30px 60px;
+}
+.online{
+    margin: 40px;
+    color: #413960;
+}
+.container-preparation{
+    padding: 100px 100px;
+}
+.bullet{
+    font-size: 45px;
+}
+.schedule{
+    color: #21B573;
+}
+.para{
+    color: #FC5C28;
+    font-weight: 800;
+}
+
+.card{
+    border: none;
+    padding: 20px 40px;
+}
+.preparation{
+    border: black;
+}
+.preparation img{
+    width: 70px;
+    height: 70px;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.card-title{
+    font-size: 23px;
+}
+.bg-foot{
+    background-color: #282531;
+    color: white;
+}
+.footlast{
+    padding: 30px 20px;
+    margin-top: 30px;
+}
+
