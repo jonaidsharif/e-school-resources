@@ -5,6 +5,12 @@
 .green-light-bg{
     background-color: #F0FFF0;
 }
+.testicon .green-light-bg img{
+    width: 20%;
+}
+.examination{
+    margin: 60px;
+}
 .icon img{
     width: 100px;
 }
@@ -73,6 +79,23 @@
 .card-title{
     font-size: 23px;
 }
+.card-footer{
+    background: none;
+}
+.text-center{
+    margin: 80px;
+    font-weight: bold;
+}
+.testimonialtak{
+    margin: 120px;
+}
+.testimonialtak img{
+    left: 50px;
+}
+.testimonialdes{
+    padding: 10px 20px;
+    ont-family: 'Poppins', sans-serif;
+}
 .bg-foot{
     background-color: #282531;
     color: white;
@@ -81,4 +104,12 @@
     padding: 30px 20px;
     margin-top: 30px;
 }
+.container .pexel{80px
+    margin: 80px;
+    width: 150px;
+    height: 150px;
+    left: 300px;
+}
+.container .testimonides{
 
+}
